@@ -1,5 +1,1 @@
 language: java
-jdk:
- -oraclejdk13
-
-script: ./mvn clean install
