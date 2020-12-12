@@ -1,5 +1,5 @@
 language: java
 jdk:
-	- openjdk 13.0.2
+	-openjdk 13.0.2
 
-script: ./mvn clean install
+script: ./mvnw clean install
