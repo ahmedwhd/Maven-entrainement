@@ -1,5 +1,5 @@
 language: java
 jdk:
-	-openjdk13.0.2
+	-openjdk13
 
 script: ./mvnw clean install
